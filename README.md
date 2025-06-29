@@ -1,4 +1,5 @@
-wip!
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=deviant-andriod&label=Profile%20views&color=0e75b6&style=flat" alt="deviant-andriod" /> </p>
+
 
 <!--
 **deviant-andriod/deviant-andriod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
